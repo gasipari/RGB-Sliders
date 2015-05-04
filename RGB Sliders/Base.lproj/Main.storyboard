@@ -47,7 +47,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <segue destination="yXA-0C-Tgr" kind="show" id="8XZ-cJ-i6M"/>
+                                    <segue destination="yXA-0C-Tgr" kind="show" identifier="openColor" id="8XZ-cJ-i6M"/>
                                 </connections>
                             </button>
                         </subviews>
